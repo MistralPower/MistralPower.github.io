@@ -42,6 +42,6 @@ layout: default
         </g>
     </g>
 </svg>
-<h1>Coming soon!</h1>
+<h2>Coming soon!</h2>
 
 Learn more by reaching out to [hello@mistralpower.cz](mailto:hello@mistralpower.cz)
